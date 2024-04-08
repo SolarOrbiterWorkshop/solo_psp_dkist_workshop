@@ -1,5 +1,5 @@
 
-#  Working with Solar Orbiter data within the SunPy ecosystem
+#  Solar data analysis within the SunPy ecosystem
  Given at the joint Solar Orbiter, Parker Solar Probe, and DKIST workshop, April 9 2024
 
 <div>
