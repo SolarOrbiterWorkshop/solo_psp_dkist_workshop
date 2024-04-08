@@ -1,6 +1,6 @@
 
 #  Working with Solar Orbiter data within the SunPy ecosystem
- Given at the Parker Heliophysics Scholars Meeting
+ Given at the joint Solar Orbiter, Parker Solar Probe, and DKIST workshop, April 9 2024
 
 <div>
 <img src="./images/sunpy_logo.png" width="500" align="left"/>
