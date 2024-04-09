@@ -24,4 +24,6 @@ Below are a few helpful links for finding out more about SunPy, including our we
 * [OpenAstronomy Discourse](https://community.openastronomy.org/c/sunpy/5)
 
 
+This tutorial is also based on out tutorial given at SPD in 2023 (https://github.com/wtbarnes/spd-2023-sunpy-demo/tree/main)
+
 Given by **Laura A. Hayes (ESA/ESTEC)** with many thanks to **Will Barnes (AU/NASA GSFC), Stuart Mumford (Aperio Software), Albert Shih (NASA GSFC), David Stansby (UCL) and the SunPy community**.
